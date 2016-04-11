@@ -1,0 +1,14 @@
+layout_spectrum: 0.2250268
+color:
+  saturation: 0.2701396
+  lightness: 0.2679914
+  brandStrength: 0.8044979
+  brandColors:
+    - '#FEFEFE'
+    - '#FDC40D'
+    - '#B1D135'
+    - '#5D5E5D'
+    - '#A8A5A5'
+  rhythmicContrast: 0.5633727
+typography_spectrum: 0.6675618
+name: 'L&LBricks'
