@@ -1,14 +1,7 @@
-color:
-  saturation: 0.2701396
-  brandStrength: 0.8044979
-  rhythmicContrast: 0.5633727
-  brandColors:
-    - '#FEFEFE'
-    - '#FDC40D'
-    - '#B1D135'
-    - '#5D5E5D'
-    - '#A8A5A5'
-  lightness: 0.2679914
+name: 'L&LBricks'
+favicon: null
+layout_spectrum: 0.2250268
+typography_spectrum: 0.6675618
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2250268
-typography_spectrum: 0.6675618
-name: 'L&LBricks'
+title: 'L & L Bricks'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FEFEFE'
+    - '#FDC40D'
+    - '#B1D135'
+    - '#5D5E5D'
+    - '#A8A5A5'
+  brandStrength: 0.8044979
+  lightness: 0.2679914
+  saturation: 0.2701396
+  rhythmicContrast: 0.5633727
+purpose: []
