@@ -17,8 +17,8 @@ keywords:
   - '75148'
   - a-wing
 description: 'We covered the announcement of these sets earlier in the year in our extensive LEGO coverage from New York Toy Fair, but official pictures have recently been spotted on Amazon UK. The six sets are listed with a June 1st release date. The highlight of the bunch is surely 75148 Encounter On Jakku, with its delightful blue Luggabeast...'
-datePublished: '2016-04-12T11:45:47.072Z'
-dateModified: '2016-04-12T11:42:40.670Z'
+datePublished: '2016-04-12T11:57:54.445Z'
+dateModified: '2016-04-12T11:45:55.441Z'
 author:
   - name: Rod
     url: 'http://www.brothers-brick.com/author/toomuchcaffeine/'
@@ -33,14 +33,14 @@ related:
     thumbnail_width: 1200
 app_links: []
 title: 'New LEGO Star Wars sets, official pictures spotted in the wild [News]'
+sourcePath: _posts/2016-04-12-new-lego-star-wars-sets-official-pictures-spotted-in-the-wi.md
+published: true
 authors: []
 publisher:
   name: Brothers-brick
   domain: www.brothers-brick.com
   url: 'http://www.brothers-brick.com'
   favicon: 'http://www.brothers-brick.com/favicon.ico'
-sourcePath: _posts/2016-04-12-new-lego-star-wars-sets-official-pictures-spotted-in-the-wi.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
