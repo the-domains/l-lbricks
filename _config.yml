@@ -1,4 +1,4 @@
-name: 'L&LBricks'
+name: 'L & LBricks'
 favicon: null
 layout_spectrum: 0.2250268
 typography_spectrum: 0.6675618
@@ -34,7 +34,7 @@ color:
     - '#B1D135'
     - '#5D5E5D'
     - '#A8A5A5'
-  brandStrength: 0.8044979
+  brandStrength: 0
   lightness: 0.2679914
   saturation: 0.2701396
   rhythmicContrast: 0.5633727
