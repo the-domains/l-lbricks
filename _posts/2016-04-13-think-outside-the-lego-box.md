@@ -17,8 +17,8 @@ keywords:
   - signifies
   - configurations
 description: 'Be sure to check with your parents before you give information online. You should never give out your full name, address, email address or phone number on the Internet without checking with your parents first.'
-datePublished: '2016-04-13T14:06:03.978Z'
-dateModified: '2016-04-13T14:04:14.044Z'
+datePublished: '2016-04-13T14:15:42.804Z'
+dateModified: '2016-04-13T14:15:35.151Z'
 author: []
 related: []
 app_links: []
@@ -35,8 +35,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e199950-5892-4d6b-9cc2-0219c273c91c.png)
+[Think Outside the][0][][1][(LEGO) Box][0]
+![This LEGO Dimensions toy pad is styled to be a treasure box on the outside but a bridge to other worlds on the inside. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb790492-507a-4379-8639-dc995b16212a.png)
 
-# Think Outside the (LEGO) Box
+  
 
-<article style=""><h1>Rebrick LEGO.com - Dimensions MOC Box</h1><p>This LEGO Dimensions toy pad is styled to be a treasure box on the outside but a bridge to other worlds on the inside. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43e5f015b10a5ca6050ee934ca46da7cb8dafe2d.png" /></article>
+
+[0]: http://www.lego.com/en-us/rebrick/view-entry?c_id=%7BBDAA521E-4056-4246-8FE4-E7C5E442FC5F%7D&a_id=57d48c51-4fa7-4cc2-b7cf-c1a9d1b9e017&sortEntry=false
+[1]: null
