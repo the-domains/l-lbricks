@@ -4,8 +4,15 @@
         <description><![CDATA[L & L Bricks]]></description>
         <link>https://thegrid.ai/l-lbricks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 14:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 14:37:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/l-lbricks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[L & L Bricks Marketplace]]></title>
+            <description><![CDATA[<article><h1>L & L Bricks Marketplace</h1><p>Buy LEGO by the brick!</p></article>]]></description>
+            <link>https://thegrid.ai/l-lbricks/l-and-l-bricks-marketplace/index.html</link>
+            <guid isPermaLink="false">8e26dad6-d229-4b5c-abbf-229b63405be2</guid>
+            <pubDate>Wed, 13 Apr 2016 14:37:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New LEGO Star Wars sets, official pictures spotted in the wild [News]]]></title>
             <description><![CDATA[<article><h1>New LEGO Star Wars sets, official pictures spotted in the wild [News]</h1><p>We covered the announcement of these sets earlier in the year in our extensive LEGO coverage from New York Toy Fair, but official pictures have recently been spotted on Amazon UK. The six sets are listed with a June 1st release date. The highlight of the bunch is surely 75148 Encounter On Jakku, with its delightful blue Luggabeast...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a41918a445052d1a4815396442a064f964d7eb8.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.thebrickfan.com/lego-disney-collectible-minifigures-71012-showing-up-at-target/</link>
             <guid isPermaLink="false">4e313309-6e97-431c-8131-39f7f0fe4f14</guid>
             <pubDate>Tue, 12 Apr 2016 12:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[L & L Bricks Marketplace]]></title>
-            <description><![CDATA[<article><h1>L & L Bricks Marketplace</h1><p>Buy LEGO by the brick!</p></article>]]></description>
-            <link>https://thegrid.ai/l-lbricks/l-and-l-bricks-marketplace/index.html</link>
-            <guid isPermaLink="false">8e26dad6-d229-4b5c-abbf-229b63405be2</guid>
-            <pubDate>Tue, 12 Apr 2016 08:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
