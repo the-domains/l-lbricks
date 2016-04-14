@@ -1,7 +1,7 @@
 name: 'L & LBricks'
 favicon: null
 layout_spectrum: 0.2250268
-typography_spectrum: 0.6675618
+typography_spectrum: 0.60491
 collections:
   - index:
       path: /
