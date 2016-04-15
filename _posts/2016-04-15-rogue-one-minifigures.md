@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:0bd62957-914b-4ff0-bed9-42362f9cd116'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-04-15T10:50:05.842Z'
+dateModified: '2016-04-15T10:48:37.969Z'
 author: []
-datePublished: '2016-04-15T10:48:29.646Z'
-publisher:
-  domain: ''
-  name: ''
 title: Rogue One Minifigures
-dateModified: '2016-04-14T18:19:35.649Z'
 sourcePath: _posts/2016-04-15-rogue-one-minifigures.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: rogue-one-minifigures/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
