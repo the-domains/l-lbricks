@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Bricklink
-datePublished: '2016-04-15T14:35:53.707Z'
-dateModified: '2016-04-15T14:35:26.697Z'
+datePublished: '2016-04-17T14:48:13.881Z'
+dateModified: '2016-04-17T14:48:06.238Z'
 title: Resources
 author: []
 sourcePath: _posts/2016-04-15-resources.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: resources/index.html
 _type: Article
 
